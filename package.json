@@ -26,5 +26,8 @@
     "@types/node": "24.0.0",
     "prettier": "^3.8.1",
     "typescript": "^5.9.3"
+  },
+  "resolutions": {
+    "lighthouse": "13.4.0"
   }
 }
